@@ -1,4 +1,4 @@
-### C:\Program Files\Git\etc.gitconfig
+### C:\Program Files\Git\etc\.gitconfig
 
     [alias]
     acm = "!f() { git add . && git commit -m \"$(echo $@)\"; }; f";
