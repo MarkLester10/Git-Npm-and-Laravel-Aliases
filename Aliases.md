@@ -61,4 +61,3 @@
     alias watch="npm run watch"
     alias prod="npm run prod"
     alias dev="npm run dev"
-    Global Aliases
