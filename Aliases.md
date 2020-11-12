@@ -27,7 +27,7 @@
 
 ### From C:\Program Files\Git\etc\bash.bashrc
 
-### Alias for composer
+# Alias for composer
 
     alias c="composer"
     alias cr="composer require"
