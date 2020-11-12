@@ -25,7 +25,7 @@
     # git unstage file1 file2 ...
     unstage = reset HEAD -- #file;
 
-### From C:\Program Files\Git\etc\bash.bashrc
+### C:\Program Files\Git\etc\bash.bashrc
 
 # Alias for composer
 
